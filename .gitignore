@@ -1,0 +1,3 @@
+data/results_json/*
+data/results_md/*
+__pycache__/
