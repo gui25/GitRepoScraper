@@ -36,6 +36,10 @@ Now, summon the setup.py script to weave the necessary enchantments and bind the
 python setup.py install
 ```
 
+```bash
+pip install .
+```
+
 ## Commencing the Quest 🗺️
 
 Summon the Repo Scraper with the ancient incantation:
